@@ -28,3 +28,5 @@ then
 ctrl + o
 source ~/.bashrc
 roslaunch robot_arm_pkg check_motors.launch
+
+![4F75CDFD-FEA8-4227-A240-E6EFED9A253C](https://user-images.githubusercontent.com/109533316/182039626-716b0ced-6d65-4089-990a-c72aa9e60386.jpeg)
